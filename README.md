@@ -26,12 +26,10 @@
 
 Web aplication of gobarber project - made with ReactJS, TypeScript styled-components, unForm and react-router-dom.
 
-Soon
-
 Project in development
 
-To see the **api**, click here:
-To see the **web client**, click here:
+To see the **api**, click here: [GoBarber Rest API](https://github.com/bruno07dev/gobarber-api)</br>
+To see the **App client**, click here: [GoBarber App](https://github.com/bruno07dev/appgobarber)</br>
 
 ## 🚀 Technologies
 
